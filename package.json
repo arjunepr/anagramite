@@ -1,0 +1,9 @@
+{
+  "name": "anagramite",
+  "version": "1.0.0",
+  "description": "A simple library that exposes anagram related functions.",
+  "main": "index.js",
+  "repository": "git@github.com:arjunepr/anagramite.git",
+  "author": "Arjun Raju Pillai <revarjunr@gmail.com>",
+  "license": "MIT"
+}
